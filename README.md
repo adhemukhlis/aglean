@@ -1,3 +1,3 @@
 # aglean
 
-Agnostic, native-first, and zero-dependency utility functions. Maximum performance, zero overhead.
+Agnostic, native-first, and zero-dependency utility functions.
