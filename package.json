@@ -1,7 +1,7 @@
 {
   "name": "aglean",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Agnostic, native-first, and zero-dependency utility functions.",
   "author": "adhemukhlis",
   "license": "ISC",
