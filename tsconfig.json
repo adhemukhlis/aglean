@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"types": ["node"],
+		"lib": ["ES2022", "ES2023"],
+		"target": "ES2022",
+		"module": "ESNext",
+		"moduleResolution": "bundler",
+		"strict": true,
+		"noEmit": true,
+		"outDir": "dist",
+		"declaration": true,
+		"declarationMap": true,
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"moduleDetection": "force",
+		"verbatimModuleSyntax": true,
+		"isolatedModules": true,
+		"skipLibCheck": true
+	},
+	"include": ["src"]
+}
